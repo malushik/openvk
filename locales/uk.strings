@@ -1334,6 +1334,7 @@
 "topics_other" = "$1 тем";
 "created" = "Створено";
 "everyone_can_create_topics" = "Всі можуть створювати теми";
+"everyone_can_upload_audios" = "Всі можуть завантажувати аудіозаписи";
 "display_list_of_topics_above_wall" = "Показувати список тем над стіною";
 "topic_changes_saved_comment" = "Оновлений заголовок та налаштування з'являться на сторінці з темою.";
 "failed_to_create_topic" = "Не вдалося створити тему";
